@@ -1,2 +1,2 @@
 # bspwm-dots
-Bspwm dotfiles
+Bspwm dotfiles, modified from archcraft default config
